@@ -33,8 +33,8 @@
         <td><%=u.getEmail()%></td>
         <td><%=u.getPass()%></td>
         <td></td>
-        <td><a href="actualizarUsuario">Actualizar</a> </td>
-        <td><a href="borrarUsuario">Actualizar</a> </td>
+        <td><a href="actualizarUsuario?email=<%=%>">Actualizar</a> </td>
+        <td><a href="borrarUsuario">Borrar</a> </td>
     </tr>
     <% } %>
     </tbody>

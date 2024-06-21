@@ -9,10 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e944aa7a-7d3f-40ef-8497-9a1a01aa7ffa" name="Changes" comment="Actualizacion 14 hjunio">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gestionUsuario.jsp" afterDir="false" />
+    <list default="true" id="e944aa7a-7d3f-40ef-8497-9a1a01aa7ffa" name="Changes" comment="Actualizacion 21 de junio">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/registroUsuario.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mx/edu/utez/pruebagit/utils/DatabaseConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/pruebagit/utils/DatabaseConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gestionUsuario.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gestionUsuario.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,9 @@
       <workItem from="1718388936555" duration="132000" />
       <workItem from="1718389077593" duration="5804000" />
       <workItem from="1718995959515" duration="276000" />
-      <workItem from="1718996412068" duration="373000" />
+      <workItem from="1718996412068" duration="734000" />
+      <workItem from="1718997167150" duration="7000" />
+      <workItem from="1718997313230" duration="677000" />
     </task>
     <task id="LOCAL-00001" summary="Cambios realizados">
       <option name="closed" value="true" />
@@ -164,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718395248368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Actualizacion 21 de junio">
+      <option name="closed" value="true" />
+      <created>1718996868270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718996868270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +197,7 @@
     <MESSAGE value="Agregué dependencias" />
     <MESSAGE value="Ultima actualizacion :D" />
     <MESSAGE value="Actualizacion 14 hjunio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion 14 hjunio" />
+    <MESSAGE value="Actualizacion 21 de junio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion 21 de junio" />
   </component>
 </project>
