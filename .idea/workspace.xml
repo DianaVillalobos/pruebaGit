@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="pruebaGit:war" />
       <artifact name="pruebaGit:war exploded" />
     </artifacts-to-build>
   </component>
@@ -10,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e944aa7a-7d3f-40ef-8497-9a1a01aa7ffa" name="Changes" comment="Ultima actualizacion :D" />
+    <list default="true" id="e944aa7a-7d3f-40ef-8497-9a1a01aa7ffa" name="Changes" comment="Actualizacion 14 hjunio">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gestionUsuario.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,6 +58,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.8.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/pruebaGit&quot;,
@@ -117,7 +128,9 @@
       <updated>1718133609545</updated>
       <workItem from="1718133610611" duration="2590000" />
       <workItem from="1718388936555" duration="132000" />
-      <workItem from="1718389077593" duration="5600000" />
+      <workItem from="1718389077593" duration="5804000" />
+      <workItem from="1718995959515" duration="276000" />
+      <workItem from="1718996412068" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="Cambios realizados">
       <option name="closed" value="true" />
@@ -143,16 +156,36 @@
       <option name="project" value="LOCAL" />
       <updated>1718136111091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Actualizacion 14 hjunio">
+      <option name="closed" value="true" />
+      <created>1718395248368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718395248368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cambios realizados" />
     <MESSAGE value="Agregué dependencias" />
     <MESSAGE value="Ultima actualizacion :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ultima actualizacion :D" />
+    <MESSAGE value="Actualizacion 14 hjunio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion 14 hjunio" />
   </component>
 </project>

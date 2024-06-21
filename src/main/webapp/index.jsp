@@ -27,6 +27,7 @@
 </form>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="registroUsuario.jsp">Registrar usuario</a>
+<a href="gestionUsuario.jsp">Gestión de usuario</a>
 </body>
 </html>
