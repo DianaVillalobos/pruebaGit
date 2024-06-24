@@ -12,6 +12,8 @@
     <title>Title</title>
 </head>
 <body>
+
+
 <table>
     <thead>
     <tr>
@@ -26,18 +28,18 @@
     <%
         //Esta forma de buscar y poner información es la más rudimentaria
         UserDao dao = new UserDao();
-        ArrayList<User> lista = dao.getAll(); // Estamos obteniedo la lista
+        ArrayList<User> lista = dao.getAll(); //Estamos obteniendo la lista
         for(User u : lista){ %>
     <tr>
         <td><%=u.getUser_name()%></td>
         <td><%=u.getEmail()%></td>
         <td><%=u.getPass()%></td>
-        <td></td>
-        <td><a href="actualizarUsuario?email=<%=%>">Actualizar</a> </td>
-        <td><a href="borrarUsuario">Borrar</a> </td>
+        <td><a href="actualizarUsuario?email=<%=u.getEmail()%>">Actualizar</a></td> <!-- funcionalidades del update -->
+        <td><a href="borrarUsuario">Borrar</a></td> <!-- funcionalidades del delete -->
     </tr>
     <% } %>
     </tbody>
 </table>
 </body>
 </html>
+
